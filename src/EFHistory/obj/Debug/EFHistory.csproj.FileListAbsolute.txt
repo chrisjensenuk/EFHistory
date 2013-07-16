@@ -1,0 +1,8 @@
+C:\Dropbox\EF History\EFHistory\bin\Debug\EFHistory.dll.config
+C:\Dropbox\EF History\EFHistory\bin\Debug\EFHistory.dll
+C:\Dropbox\EF History\EFHistory\bin\Debug\EFHistory.pdb
+C:\Dropbox\EF History\EFHistory\bin\Debug\EntityFramework.dll
+C:\Dropbox\EF History\EFHistory\bin\Debug\EntityFramework.xml
+C:\Dropbox\EF History\EFHistory\obj\Debug\EFHistory.csprojResolveAssemblyReference.cache
+C:\Dropbox\EF History\EFHistory\obj\Debug\EFHistory.dll
+C:\Dropbox\EF History\EFHistory\obj\Debug\EFHistory.pdb

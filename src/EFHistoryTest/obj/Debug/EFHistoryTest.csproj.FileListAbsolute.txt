@@ -1,0 +1,19 @@
+C:\Dropbox\EF History\EF History\EFHistoryTest\obj\Debug\EFHistoryTest.csprojResolveAssemblyReference.cache
+C:\Dropbox\EF History\EF History\EFHistoryTest\bin\Debug\EFHistoryTest.dll.config
+C:\Dropbox\EF History\EF History\EFHistoryTest\bin\Debug\EFHistoryTest.dll
+C:\Dropbox\EF History\EF History\EFHistoryTest\bin\Debug\EFHistoryTest.pdb
+C:\Dropbox\EF History\EF History\EFHistoryTest\bin\Debug\EFHistory.dll
+C:\Dropbox\EF History\EF History\EFHistoryTest\bin\Debug\EntityFramework.dll
+C:\Dropbox\EF History\EF History\EFHistoryTest\bin\Debug\EFHistory.pdb
+C:\Dropbox\EF History\EF History\EFHistoryTest\bin\Debug\EntityFramework.xml
+C:\Dropbox\EF History\EF History\EFHistoryTest\obj\Debug\EFHistoryTest.dll
+C:\Dropbox\EF History\EF History\EFHistoryTest\obj\Debug\EFHistoryTest.pdb
+C:\Dropbox\EFHistory\src\EFHistoryTest\bin\Debug\EFHistoryTest.dll.config
+C:\Dropbox\EFHistory\src\EFHistoryTest\bin\Debug\EFHistoryTest.dll
+C:\Dropbox\EFHistory\src\EFHistoryTest\bin\Debug\EFHistoryTest.pdb
+C:\Dropbox\EFHistory\src\EFHistoryTest\bin\Debug\EFHistory.dll
+C:\Dropbox\EFHistory\src\EFHistoryTest\bin\Debug\EFHistory.pdb
+C:\Dropbox\EFHistory\src\EFHistoryTest\bin\Debug\EntityFramework.xml
+C:\Dropbox\EFHistory\src\EFHistoryTest\obj\Debug\EFHistoryTest.csprojResolveAssemblyReference.cache
+C:\Dropbox\EFHistory\src\EFHistoryTest\obj\Debug\EFHistoryTest.dll
+C:\Dropbox\EFHistory\src\EFHistoryTest\obj\Debug\EFHistoryTest.pdb
